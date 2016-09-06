@@ -1,0 +1,37 @@
+form{		
+   	 width:300px;			
+	 margin: 0 auto;
+}
+form input{
+     width:150px;
+	 height:30px;
+	 margin-top:40px;
+
+}
+form #sex{
+	 margin-top:40px;
+}
+form #sex2{
+	 margin-left:80px;
+}
+form img{
+    position:relative;
+	top:10px;
+}
+form input.radio{
+    width:10px;
+	height:30px;
+	margin-top:0;
+	position:relative;
+	top:10px;
+}
+form .reset{
+    cursor:pointer;
+    margin-top:30;
+   
+}
+form .register{
+   cursor:pointer; 
+   margin-top:30;
+   
+}

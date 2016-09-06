@@ -1,0 +1,36 @@
+#left{
+    height:400px;
+    width:400px;
+    margin-top:50px;
+    margin-left: 100px;
+	background-color: lightblue;
+	float:left;
+}
+#left img{
+	height:500px;
+	width:600px;
+}
+
+#tb form{		
+     
+   	 width:300px;			
+	 padding-top:200px;
+	 padding-left:850px;
+
+	 
+}
+#tb form input{
+     width:150px;
+	 height:30px;
+	 margin-top:3px;
+}
+#tb form img{
+    position:relative;
+	top:10px;
+}
+#tb form .submit{
+    cursor:pointer;
+}
+#tb form .register{
+   cursor:pointer; 
+}

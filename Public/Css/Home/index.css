@@ -1,0 +1,57 @@
+#header {
+   width:1280px; 
+   height:588px;
+   background:#fff url(http://localhost/thinkmessage/Public/Images/banner.jpg) repeat-y right top;
+}
+
+#header p{
+	padding-top:15px;
+}
+
+#header a.url1{
+    background-color:orange;
+	padding-top:20px;
+	padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+	text-decoration:none;
+	color:white;
+	
+}
+#header a.url{
+	padding-top:20px;
+    padding-left:40px;
+    padding-right:40px;
+	text-decoration:none;
+	color:white;
+}
+#header a.url:hover{
+    color:black;    
+}
+#header a.url1:hover{
+	 
+	color:black;
+    
+}
+#header a.out{
+	padding-top:20px;
+	padding-left:10px;
+	text-decoration:none;
+	color:white;
+}
+#header a.out:hover{
+
+	color:orange;
+}
+#header a.username{
+	color:orange;
+}
+#header p.nav{
+    float:left;
+    
+}
+#header p.user{
+	margin-left:20px;
+	margin-right:10px;
+    float:right;
+}
